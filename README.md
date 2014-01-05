@@ -1,0 +1,4 @@
+DemineurPHP
+===========
+
+Basic PHP minesweeper
